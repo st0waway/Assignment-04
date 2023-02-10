@@ -1,0 +1,15 @@
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\bin\Debug\net7.0\Assignment_04.exe
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\bin\Debug\net7.0\Assignment_04.deps.json
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\bin\Debug\net7.0\Assignment_04.runtimeconfig.json
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\bin\Debug\net7.0\Assignment_04.dll
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\bin\Debug\net7.0\Assignment_04.pdb
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\Assignment_04.csproj.AssemblyReference.cache
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\Assignment_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\Assignment_04.AssemblyInfoInputs.cache
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\Assignment_04.AssemblyInfo.cs
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\Assignment_04.csproj.CoreCompileInputs.cache
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\Assignment_04.dll
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\refint\Assignment_04.dll
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\Assignment_04.pdb
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\Assignment_04.genruntimeconfig.cache
+D:\Dev\Internship\Assignment-04\Assignment_04\Assignment_04\obj\Debug\net7.0\ref\Assignment_04.dll
